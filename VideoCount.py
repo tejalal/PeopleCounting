@@ -8,7 +8,7 @@ import sys
 
 # argument parsing
 ap = argparse.ArgumentParser()
-ap.add_argument("-v", "--video", default="videofile.mp4", help="path to the video file")
+ap.add_argument("-v", "--video", default="video.mp4", help="path to the video file")
 ap.add_argument("-a", "--min-area", type=int, default=500, help="minimum area size")
 ap.add_argument("-t", "--status", type=str, help="tracking status(True/False)")
 args = vars(ap.parse_args())
