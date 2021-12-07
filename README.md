@@ -1,5 +1,4 @@
 # PeopleCounting
-People Counting
 
 Dependencies
 1. Python 3 
