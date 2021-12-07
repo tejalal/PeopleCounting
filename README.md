@@ -1,11 +1,12 @@
 # PeopleCounting
 People Counting
 
-Instal below libraries
+Dependencies
 1. Python 3 
 2. OpenCV
 
-python VideoCount.py -v video.mp4 -t True
+Run the file
+ python VideoCount.py -v video.mp4 -t True
 
 Note: If you want to enable the Tracking then set the last argument to True otherwise set to False
 
