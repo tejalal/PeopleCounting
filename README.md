@@ -17,3 +17,6 @@ url = 'http://10.12.8.246:8080/shot.jpg'  # change IP address to your mobile IP
 Use below comand to run the program
 
 python LiveCamera.py
+
+Video 
+https://www.youtube.com/watch?v=pa4R_Da5UMo&lc=UgzKn6ayaFQHUBE9ZE94AaABAg
